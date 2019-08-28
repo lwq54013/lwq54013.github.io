@@ -12,7 +12,8 @@
       <img src="/msk.jpg" width="100%">      
     </td>
   </tr>
-  <tr><a href="/index-en.html">English Version</a></tr>
+  
+  <a href="/index-en.html">English Version</a>
 </table>
 
 ### 学习情况

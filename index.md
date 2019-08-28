@@ -7,13 +7,14 @@
       <p><b>石家庄铁道大学信息科学与技术学院</b></p>
       <p><b>邮箱：1244109510@qq.com</b></p>
       <p><b>地址：石家庄市桥东区胜利北街道石家庄铁道大学 信息学院楼 邮编051000</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/msk.jpg" width="100%">      
     </td>
   </tr>
   
-  <a href="/index-en.html">English Version</a>
+  
 </table>
 
 ### 学习情况
